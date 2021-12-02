@@ -1,0 +1,69 @@
+C:\Users\nguye\source\repos\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.exe.config
+C:\Users\nguye\source\repos\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.exe
+C:\Users\nguye\source\repos\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.pdb
+C:\Users\nguye\source\repos\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.csprojAssemblyReference.cache
+C:\Users\nguye\source\repos\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.exe
+C:\Users\nguye\source\repos\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.pdb
+C:\Users\nguye\Desktop\Cau 3-9 Nguyen Thanh Tuan\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.exe.config
+C:\Users\nguye\Desktop\Cau 3-9 Nguyen Thanh Tuan\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.exe
+C:\Users\nguye\Desktop\Cau 3-9 Nguyen Thanh Tuan\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.pdb
+C:\Users\nguye\Desktop\Cau 3-9 Nguyen Thanh Tuan\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.csprojAssemblyReference.cache
+C:\Users\nguye\Desktop\Cau 3-9 Nguyen Thanh Tuan\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\Cau 3-9 Nguyen Thanh Tuan\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.exe
+C:\Users\nguye\Desktop\Cau 3-9 Nguyen Thanh Tuan\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.pdb
+C:\Users\ADMIN\Downloads\Cau 3-9 Nguyen Thanh Tuan\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Cau 3-9 Nguyen Thanh Tuan\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Downloads\Cau 3-9 Nguyen Thanh Tuan\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Cau 3-9 Nguyen Thanh Tuan\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.exe
+C:\Users\ADMIN\Downloads\Cau 3-9 Nguyen Thanh Tuan\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.pdb
+C:\Users\ADMIN\Downloads\Cau 3-9 Nguyen Thanh Tuan\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.exe.config
+C:\Users\ADMIN\Downloads\Cau 3-9 Nguyen Thanh Tuan\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.exe
+C:\Users\ADMIN\Downloads\Cau 3-9 Nguyen Thanh Tuan\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.pdb
+C:\Users\ADMIN\Downloads\OOP\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.exe.config
+C:\Users\ADMIN\Downloads\OOP\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.exe
+C:\Users\ADMIN\Downloads\OOP\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.pdb
+C:\Users\ADMIN\Downloads\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Downloads\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.exe
+C:\Users\ADMIN\Downloads\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.pdb
+C:\Users\pc\Documents\cc\OOP\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.exe.config
+C:\Users\pc\Documents\cc\OOP\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.exe
+C:\Users\pc\Documents\cc\OOP\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.pdb
+C:\Users\pc\Documents\cc\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\cc\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Documents\cc\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\cc\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.exe
+C:\Users\pc\Documents\cc\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.pdb
+C:\Users\ngoho\Downloads\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.csproj.AssemblyReference.cache
+C:\Users\ngoho\Downloads\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ngoho\Downloads\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.csproj.CoreCompileInputs.cache
+C:\Users\ngoho\Downloads\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.exe
+C:\Users\ngoho\Downloads\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.pdb
+C:\Users\pc\Documents\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Documents\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.exe
+C:\Users\pc\Documents\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.pdb
+C:\Users\pc\Documents\OOP\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.exe.config
+C:\Users\pc\Documents\OOP\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.exe
+C:\Users\pc\Documents\OOP\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.pdb
+E:\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.csproj.SuggestedBindingRedirects.cache
+E:\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.csproj.CoreCompileInputs.cache
+E:\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.exe
+E:\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.pdb
+E:\OOP\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.exe.config
+E:\OOP\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.exe
+E:\OOP\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.pdb
+E:\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.csproj.AssemblyReference.cache
+C:\Users\ngoho\Downloads\OOP\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.exe.config
+C:\Users\ngoho\Downloads\OOP\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.exe
+C:\Users\ngoho\Downloads\OOP\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.pdb
+C:\Users\nguye\Desktop\OOP\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.exe.config
+C:\Users\nguye\Desktop\OOP\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.exe
+C:\Users\nguye\Desktop\OOP\NPL.SMS\NPL.SMS\bin\Debug\NPL.SMS.pdb
+C:\Users\nguye\Desktop\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.csproj.AssemblyReference.cache
+C:\Users\nguye\Desktop\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.exe
+C:\Users\nguye\Desktop\OOP\NPL.SMS\NPL.SMS\obj\Debug\NPL.SMS.pdb
